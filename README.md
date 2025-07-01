@@ -23,7 +23,7 @@
 | [Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption](https://cuiziteng.github.io/Aleth_NeRF_web/)                                                                                                   | AAAI 2024               |
 | [LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes](https://github.com/quzefan/LuSh-NeRF)                                                                                                                 | NeurlPS 2024            |
 | [Bright-NeRF: Brightening Neural Radiance Field with Color Restoration from Low-Light RAW Images](https://ojs.aaai.org/index.php/AAAI/article/view/32842)                                                                | AAAI 2025               |
-| [ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_ReNeRF_Relightable_Neural_Radiance_Fields_with_Nearfield_Lighting_ICCV_2023_paper.pdf)<br> |                         |
+| [ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_ReNeRF_Relightable_Neural_Radiance_Fields_with_Nearfield_Lighting_ICCV_2023_paper.pdf)<br> | ICCV 2023               |
 | [Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting](https://github.com/yec22/Gaussian-DK)                                                                            | Pacific Graphics 2024   |
 | [DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark](https://github.com/tyz1030/darkgs)                                                                                | IROS 2024               |
 
